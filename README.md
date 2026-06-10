@@ -42,4 +42,7 @@ WHEN Exit Button Clicked
     Close Application
 END WHEN
 END
-
+Reference
+Android studio
+Kotlin
+Github
