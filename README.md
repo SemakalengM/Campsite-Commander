@@ -10,9 +10,9 @@ Pseudocode
 START
 
 Create arrays:
-    days[]
-    temperatures[]
-    weatherConditions[]
+    shelter[]
+    food[]
+    safety[]
 
 Display Main Screen
 
